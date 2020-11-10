@@ -2,6 +2,8 @@
 
 The Office of Head Start and 18F are conducting market research for an upcoming requirement supporting the OHS's infrastructure.
 
+We are issuing a Request for Information to learn more about the marketplace and get feedback on the high-level ideas. [You can respond to the RFI using this Google Form].
+
 ## Agency background
 
 The Office of Head Start (OHS) is responsible for administering the Head Start program, which provides grants to local public and private non-profit and for-profit agencies to provide comprehensive child development services to economically disadvantaged children and their families. The office is located in the Administration for Children and Families (ACF), Department of Health and Human Services (HHS).
