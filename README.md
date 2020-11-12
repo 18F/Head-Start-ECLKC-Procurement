@@ -2,7 +2,7 @@
 
 The Office of Head Start and 18F are conducting market research for an upcoming requirement supporting the OHS's infrastructure.
 
-We are issuing a Request for Information to learn more about the marketplace and get feedback on the high-level ideas. [You can respond to the RFI using this Google Form].
+We are issuing a Request for Information to learn more about the marketplace and get feedback on the high-level ideas. [You can respond to the RFI using this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc1VhNoReiuGX_D6-5RvHcQinWyX6cmUlvkxAXvtutVYl82VA/viewform).
 
 ## Agency background
 
